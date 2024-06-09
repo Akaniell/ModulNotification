@@ -1,0 +1,96 @@
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv2\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\OOP\kursachapi\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\OOP\kursachapi\DTO\bin\Debug\net8.0\DTO.dll
+D:\OOP\kursachapi\DTO\bin\Debug\net8.0\DTO.pdb
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.dll
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.pdb
+D:\OOP\kursachapi\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\курсачv2\kursachapi\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\курсачv2\kursachapi\DTO\bin\Debug\net8.0\DTO.dll
+D:\курсачv2\kursachapi\DTO\bin\Debug\net8.0\DTO.pdb
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\DTO.dll
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\DTO.pdb
+D:\курсачv2\kursachapi\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\user\Desktop\OOP\kursachapi\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\user\Desktop\OOP\kursachapi\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\user\Desktop\OOP\kursachapi\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\user\Desktop\OOP\kursachapi\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Женя\Downloads\KursovayaOOPv3\kursachapi\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Akumu\Desktop\КурсачAPI\kursachapi\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\Женя\Downloads\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\ref\DTO.dll
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\bin\Debug\net8.0\DTO.deps.json
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\bin\Debug\net8.0\DTO.dll
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\bin\Debug\net8.0\DTO.pdb
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.dll
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\refint\DTO.dll
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\DTO.pdb
+F:\курсовая\Универ\Курсовая ООП\KursovayaOOPv4\kursachapi\DTO\obj\Debug\net8.0\ref\DTO.dll
